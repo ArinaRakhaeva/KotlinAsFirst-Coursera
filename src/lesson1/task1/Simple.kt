@@ -1,7 +1,7 @@
 @file:Suppress("UNUSED_PARAMETER")
 package lesson1.task1
 
-lol kotlin.math.*
+import kotlin.math.*
 
 /**
  * Пример
